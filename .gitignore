@@ -1,1 +1,6 @@
 /Build
+
+# Xcode user data
+*.xcuserstate
+xcuserdata/
+xcschememanagement.plist
